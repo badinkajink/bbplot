@@ -1,0 +1,24 @@
+https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/README.md
+https://www.youtube.com/watch?v=_eh1conN6YM
+https://robotpy.readthedocs.io/en/stable/guide/index.html#programmers-guide
+https://robotpy.readthedocs.io/en/stable/guide/anatomy.html#anatomy
+https://www.chiefdelphi.com/t/virtual-hardware-for-coding/382709/2
+https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
+
+Swerve Misc
+https://jacobmisirian.gitbooks.io/frc-swerve-drive-programming/content/chapter1.html
+https://www.chiefdelphi.com/t/paper-4-wheel-independent-drive-independent-steering-swerve/107383
+3452 - https://github.com/frc3452/2019_sim
+1706 - https://github.com/rr1706/Vision2020
+1690 - https://github.com/omri-kornblau/go-path-finder
+1690 - https://github.com/giladwo/Orbit-1690-Path-Finder
+1323 - https://github.com/Team1323/2019DeepSpace
+https://www.chiefdelphi.com/t/best-way-to-test-2910-module-swerve-drive-code/359248/2
+2910:
+- https://github.com/FRCTeam2910/VisionSandbox
+- https://github.com/FRCTeam2910/2019CompetitionRobot-Public
+- https://github.com/FRCTeam2910/JesterVision/tree/master/src
+- https://github.com/FRCTeam2910/PathViewer/tree/master/src/main/java/org/frcteam2910/pathviewer
+- https://github.com/FRCTeam2910/Common
+https://github.com/KHEngineering/SmoothPathPlanner
+https://github.com/wpilibsuite/PathWeaver
